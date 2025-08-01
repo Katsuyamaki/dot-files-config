@@ -1,0 +1,42 @@
+{
+	"name": "Vimium C",
+	"@time": "7/31/2025, 10:32:01 AM",
+	"time": 1753972321485,
+	"environment": {
+		"extension": "2.12.3",
+		"platform": "linux",
+		"firefox": 141
+	},
+	"keyLayout": 2,
+	"keyMappings": [
+		"#!no-check",
+		"unmapAll",
+		"map ? showHelp",
+		"map v scrollUp",
+		"map c scrollDown",
+		"map m scrollLeft",
+		"map k scrollRight",
+		"map r LinkHints.activate",
+		"map e LinkHints.activateOpenInNewTab",
+		"map R LinkHints.activateFocus",
+		"map E LinkHints.activateHover",
+		"map h goBack",
+		"map f goForward",
+		"map p previousTab",
+		"map d nextTab",
+		"map G zoomOut",
+		"map W zoomIn",
+		"map o enterFindMode",
+		"map Z zoomReset",
+		"map i performFind",
+		"map . performBackwardsFind",
+		"map u focusInput",
+		"map ' Vomnibar.activate",
+		"map , Vomnibar.activateInNewTab",
+		"map \" Vomnibar.activateTabs",
+		""
+	],
+	"linkHintCharacters": "uoiesnjltamvkchpfd",
+	"userDefinedCss": ".LH, .D>.LH{ background:linear-gradient(#0070ff,#0070ff); }",
+	"vimSync": true
+}
